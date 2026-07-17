@@ -69,6 +69,7 @@ A full-stack e-commerce web application featuring secure JWT authentication, pro
 ---
 
 ## 📁 Project Structure
+```
 shopsphere/
 ├── backend/
 │   ├── config/
@@ -131,7 +132,7 @@ shopsphere/
 ├── .env.example
 ├── .gitignore
 └── package.json
-
+```
 ---
 
 ## 🚀 Quick Start
